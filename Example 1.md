@@ -1,20 +1,20 @@
 TaxDome pricing is straightforward and transparent. Find out how it works, how much it costs, and what the differences between 1-year and multi-year subscriptions in this FAQ.
 
 Frequently Asked Questions:
-[1. How does TaxDome pricing work?](#1)
-[2. How are my firm’s new users priced if I add them later?](#2)
-[3. Can I purchase licenses with different duration for my employees?](#3)
-[4. Can clients access the portal after the primary subscription expires?](#4)
-[5. Why do you require at least one annual subscription?](#5)
-[6. Can I buy a 1-year subscription, then upgrade to a multi-year and still get the discounted price?](#6)
-[7. Can I transfer multi-year licenses from one employee to another?](#7)
-[8. Are there any limitations to the number of users my firm can have, the use of features, or the amount of storage space? Does TaxDome have price tiers?](#8)
-[9. Can I suspend my TaxDome subscription?](#9)
-[10. Does pricing differ depending on how big or small my firm is? Is pricing negotiable? Does TaxDome offer discounts?](#10)
-[11. Is TaxDome ever on sale?](#11)
-[12. Can I get a discount for recommending friends?](#12)
-[13. When I bought the TaxDome license, the price was different. Can I keep the old price?](#13)
-[14. What happened to my Lite plan subscription?](#14)
+1. [How does TaxDome pricing work?](#1)
+2. [How are my firm’s new users priced if I add them later?](#2)
+3. [Can I purchase licenses with different duration for my employees?](#3)
+4. [Can clients access the portal after the primary subscription expires?](#4)
+5. [Why do you require at least one annual subscription?](#5)
+6. [Can I buy a 1-year subscription, then upgrade to a multi-year and still get the discounted price?](#6)
+7. [Can I transfer multi-year licenses from one employee to another?](#7)
+8. [Are there any limitations to the number of users my firm can have, the use of features, or the amount of storage space? Does TaxDome have price tiers?](#8)
+9. [Can I suspend my TaxDome subscription?](#9)
+10. [Does pricing differ depending on how big or small my firm is? Is pricing negotiable? Does TaxDome offer discounts?](#10)
+11. [Is TaxDome ever on sale?](#11)
+12. [Can I get a discount for recommending friends?](#12)
+13. [When I bought the TaxDome license, the price was different. Can I keep the old price?](#13)
+14. [What happened to my Lite plan subscription?](#14)
 
 <a id="1"></a>
 
