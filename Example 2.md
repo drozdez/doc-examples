@@ -5,20 +5,15 @@ TaxDome allows you to have invoices automatically generated, request payment aut
 Tip: Download the [**Setting up Automatic Regular Payments on TaxDome** checklist](https://taxdome-public.s3.amazonaws.com/images/help/Setting+up+Automatic+Regular+Payments+on+TaxDome.pdf) to track your progress
 
 Covered here:
+[TOC]
 
-*   [Recurring invoices, explained](#1)
-*   [Three things to check before creating a recurring invoice](#2)
-*   [Three questions to ask yourself when preparing a recurring invoice](#4)
-*   [](#4)[Where to find the recurring invoice once it's sent](#3)
-
-Recurring invoices, explained
------------------------------
+## Recurring invoices, explained
 
 When you provide the same services to the same clients at specified intervals, it can be useful to schedule their payments. With TaxDome, you can use recurring invoices for that.
 
 Recurring invoices is an automatic process of creating invoices and debiting the client's account for the same amount on a given schedule.
 
-Some examples:
+**Some examples:**
 
 *   You perform the same services on a regular basis (e.g. payroll or bookkeeping) and with recurring invoices, your clients pay for your services the same way they pay for a subscription. Money is automatically withdrawn from their bank account.
 *   You perform the same services on a regular basis (e.g. payroll or bookkeeping) and with recurring invoices, you can have invoices generated and sent to the client automatically at regular intervals.
@@ -30,8 +25,7 @@ Here's what the signing process looks like for the client:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5be60d8f04286304a71c1d53/images/6449024cd50b2033bd241688/file-byY9bCNx9O.png)
 
-Three things to check before creating a recurring invoice
----------------------------------------------------------
+## Three things to check before creating a recurring invoice
 
 Here are some important things that you should keep in mind before creating your first recurring invoice.
 
@@ -47,8 +41,7 @@ Here are some important things that you should keep in mind before creating your
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5be60d8f04286304a71c1d53/images/643d58d57133de139103e9ba/file-s0iXiMlhO7.png)
 
-Three questions to ask yourself when preparing a recurring invoice
-------------------------------------------------------------------
+## Three questions to ask yourself when preparing a recurring invoice
 
 Here are some important questions that you should ask yourself when preparing your recurring invoice to make the process go smoother:
 
@@ -58,8 +51,7 @@ Here are some important questions that you should ask yourself when preparing yo
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5be60d8f04286304a71c1d53/images/644a5778cdec2a7348811cc9/file-DlvHhLSWkn.png)
 
-Where to find the recurring invoice once it's sent
---------------------------------------------------
+## Where to find the recurring invoice once it's sent
 
 Once the recurring invoice is created, you can find it in the **Recurring invoices** tab of the **Invoices** section. From here you can:
 
