@@ -5,7 +5,12 @@ TaxDome allows you to have invoices automatically generated, request payment aut
 Tip: Download the [**Setting up Automatic Regular Payments on TaxDome** checklist](https://taxdome-public.s3.amazonaws.com/images/help/Setting+up+Automatic+Regular+Payments+on+TaxDome.pdf) to track your progress
 
 Covered here:
-[TOC]
+- [Recurring invoices, explained](#1)
+- [Three things to check before creating a recurring invoice](#2)
+- [Three questions to ask yourself when preparing a recurring invoice](#3)
+- [Where to find the recurring invoice once it's sent](#4)
+
+<a id="1"></a>
 
 ## Recurring invoices, explained
 
@@ -25,6 +30,8 @@ Here's what the signing process looks like for the client:
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5be60d8f04286304a71c1d53/images/6449024cd50b2033bd241688/file-byY9bCNx9O.png)
 
+<a id="2"></a>
+
 ## Three things to check before creating a recurring invoice
 
 Here are some important things that you should keep in mind before creating your first recurring invoice.
@@ -41,6 +48,8 @@ Here are some important things that you should keep in mind before creating your
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5be60d8f04286304a71c1d53/images/643d58d57133de139103e9ba/file-s0iXiMlhO7.png)
 
+<a id="3"></a>
+
 ## Three questions to ask yourself when preparing a recurring invoice
 
 Here are some important questions that you should ask yourself when preparing your recurring invoice to make the process go smoother:
@@ -50,6 +59,8 @@ Here are some important questions that you should ask yourself when preparing yo
 3.  _How do I want to allow my clients to pay the invoices issued within the recurring process?_ Then select the appropriate [payment method](https://help.taxdome.com/article/491-selecting-default-provider-for-accepting-payments#2) for them.
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5be60d8f04286304a71c1d53/images/644a5778cdec2a7348811cc9/file-DlvHhLSWkn.png)
+
+<a id="4"></a>
 
 ## Where to find the recurring invoice once it's sent
 

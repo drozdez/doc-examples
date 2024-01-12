@@ -1,7 +1,22 @@
 TaxDome pricing is straightforward and transparent. Find out how it works, how much it costs, and what the differences between 1-year and multi-year subscriptions in this FAQ.
 
 Frequently Asked Questions:
-[TOC]
+[1. How does TaxDome pricing work?](#1)
+[2. How are my firm’s new users priced if I add them later?](#2)
+[3. Can I purchase licenses with different duration for my employees?](#3)
+[4. Can clients access the portal after the primary subscription expires?](#4)
+[5. Why do you require at least one annual subscription?](#5)
+[6. Can I buy a 1-year subscription, then upgrade to a multi-year and still get the discounted price?](#6)
+[7. Can I transfer multi-year licenses from one employee to another?](#7)
+[8. Are there any limitations to the number of users my firm can have, the use of features, or the amount of storage space? Does TaxDome have price tiers?](#8)
+[9. Can I suspend my TaxDome subscription?](#9)
+[10. Does pricing differ depending on how big or small my firm is? Is pricing negotiable? Does TaxDome offer discounts?](#10)
+[11. Is TaxDome ever on sale?](#11)
+[12. Can I get a discount for recommending friends?](#12)
+[13. When I bought the TaxDome license, the price was different. Can I keep the old price?](#13)
+[14. What happened to my Lite plan subscription?](#14)
+
+<a id="1"></a>
 
 ## 1\. How does TaxDome pricing work?
 
@@ -20,14 +35,17 @@ The primary user (the first) must be on an [annual subscription](https://help.ta
 |Australia|[from 720 AU$](https://taxdome.com/en-au/pricing)|100 AU$|
 |New Zealand|[from 720 NZ$](https://taxdome.com/en-nz/pricing)|100 NZ$|
 
+<a id="2"></a>
+
 ## 2\. How are my firm’s new users priced when I add them later?
--------------------------------------------------------------
 
 All annual subscriptions are set on the same billing cycle. If a team member is added at your firm, their subscription price is [prorated](https://help.taxdome.com/article/49-plans-and-billing#3) according to the primary subscription’s expiration date.
 
 For example, if the primary subscription expires on January 1, and an additional annual user subscribes on February 1, you are charged for 11 months of service—all annual subscriptions renew on the original purchase date, in this case, January 1.
 
 For seasonal staff, you can rely on monthly subscriptions, which are set to automatically renew (unless canceled) 1 month from the date of purchase. 
+
+<a id="3"></a>
 
 ## 3\. Can I purchase licenses with different duration for my employees?
 
@@ -43,21 +61,31 @@ Your team can be on different duration cycles than the firm owner, but cannot ha
 
 Note! When you choose a 2-year or 3-year subscription plan, you are required to pay for the entire subscription period in advance.
 
+<a id="4"></a>
+
 ## 4\. Can clients access the portal after the primary subscription expires?
 
 In order for clients to access the portal, at least one subscription—in this case, the primary subscription—must be paid for.
+
+<a id="5"></a>
 
 ## 5\. Why do you require at least one annual subscription?
 
 Because the portal is used to securely store sensitive documents for both your firm and your clients. We aim to provide a reliable service to all, and an annual subscription (a.k.a. a license) ensures that.
 
+<a id="6"></a>
+
 ## 6\. Can I buy a 1-year subscription, then upgrade to a multi-year and still get the discounted price?
 
 If your license renews for 1 year and you wish to upgrade to a 2 or 3-year plan, you can do so within 30 days of your renewal. Find out the details [in the article](https://help.taxdome.com/article/186-subscription-how-tos#14).
 
+<a id="7"></a>
+
 ## 7\. Can I transfer multi-year licenses from one employee to another?
 
 Yes, you can deactivate a user and reassign the 1-year or multi-year license to another teammate. More about a [subscription transfer](https://help.taxdome.com/article/186-subscription-how-tos#5).
+
+<a id="8"></a>
 
 ## 8\. Are there any limitations to the number of users my firm can have, the use of features, or the amount of storage? Does TaxDome have price tiers?
 
@@ -65,9 +93,13 @@ We like to keep things simple, which is why for we offer one simple pricing plan
 
 This plan offers all of TaxDome’s features, including sophisticated practice-management tools, a PDF editor, invoicing, integrations with other services, and more. The firm does not have to set a limit to how many team members use TaxDome, and every subscription comes with the full use of all of its features.
 
+<a id="9"></a>
+
 ## 9\. Can I suspend my TaxDome subscription?
 
 A TaxDome subscription cannot be suspended and resumed at a later date. If you have seasonal team members, you might want to consider [purchasing monthly](https://help.taxdome.com/article/49-plans-and-billing) subscriptions for them rather than annual ones. They will not be charged again after deactivating the team member.
+
+<a id="10"></a>
 
 ## 10\. Does the pricing differ depending on how big or small my firm is? Is pricing negotiable? Does TaxDome offer discounts?
 
@@ -77,15 +109,21 @@ This way, you know that you’ll always pay the same as everyone else, which hap
 
 However, we value our long-term customers. That's why you can save on a TaxDome license by purchasing a 2-year or 3-year plan and save up to 25%.
 
+<a id="11"></a>
+
 ## 11\. Is TaxDome ever on sale?
 
 We don’t have sales. Tiffany &Co. has been in business for 175 years without ever having had a single sale. Like the classic jewelry brand, we aim to give you a great design and quality at a solid but reasonable price. We strive to give you the very best.
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5be60d8f04286304a71c1d53/images/5fe2d24740f24b1b2aaf3ce6/file-3yBOBGkncd.png)
 
+<a id="12"></a>
+
 ## 12\. Can I get a discount for recommending my friends?
 
 You can get two free user months for each friend that you invite and who chooses to run their practice on TaxDome. Also, you can get Amazon gift cards for inviting more firms. Learn more about our [referral program](https://help.taxdome.com/article/189-taxdome-referral-program).
+
+<a id="13"></a>
 
 ## 13\. When I bought the TaxDome license, the price was different. Can I keep the old price? 
 
@@ -93,8 +131,9 @@ Yes, you can keep your price by buying a license for 3 years. One month before
 
 ![](https://s3.amazonaws.com/helpscout.net/docs/assets/5be60d8f04286304a71c1d53/images/63e25d9cf19b3c454741d62f/file-bT54rcx6xw.png)
 
+<a id="14"></a>
+
 ## 14\. What happened to my Lite plan subscription?
-------------------------------------------------
 
 We've decided to focus our resources on enhancing the Pro plan, ensuring a more robust and feature-rich experience for all our users.
 
